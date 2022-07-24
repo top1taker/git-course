@@ -3,4 +3,4 @@ this is the second line;
 this is the third line;
 this is forth line;
 
-the lazy brown cat jumps over the house
+the lazy brown chicken jumps over the house;
